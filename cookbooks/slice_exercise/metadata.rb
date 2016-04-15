@@ -1,0 +1,7 @@
+name 'slice_exercise'
+maintainer 'Steven Mutua'
+maintainer_email 'steven@sonic.net'
+license 'all_rights'
+description 'Installs/Configures slice_exercise'
+long_description 'Installs/Configures slice_exercise'
+version '1.0.0'
